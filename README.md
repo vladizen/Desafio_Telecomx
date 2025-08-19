@@ -1,4 +1,4 @@
-# Análisis de Churn de Clientes - TelecomX
+# Proyecto Telecom X – Análisis de Evasión de Clientes
 
 ## Propósito del Análisis
 
